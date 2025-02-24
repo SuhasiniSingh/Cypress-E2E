@@ -1,4 +1,10 @@
 {
-    "userName": "Admin",
-    "passWord": "admin123"
+    "login": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "PIMdetails": {
+        "EmployeeName": "abcd",
+        "EmployeeId": "1"
+    }
 }
